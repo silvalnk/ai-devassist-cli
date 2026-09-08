@@ -1,0 +1,8 @@
+/core/target
+**/target
+vector_store.json
+**/vector_store.json
+docs/rfcs/AUDIT.json
+docs/rfcs/[0-9]*.md
+*.log
+.DS_Store
