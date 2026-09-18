@@ -5,9 +5,6 @@
 > SDD, RAG, Agents, Skills, Workflows RFC e defesas contra prompt injection.  
 > Spec-Driven (Spec Kit) + skills de agente no Cursor.
 
-Repositório: [silvalnk/ai-devassist-cli](https://github.com/silvalnk/ai-devassist-cli)  
-Pasta local: `devassist_cli/` · Marca: **DevAssist CLI**
-
 ![DevAssist CLI: help, plugin Lua, RAG e security audit](docs/images/cli.png)
 
 | | |
