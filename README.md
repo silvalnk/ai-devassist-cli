@@ -27,6 +27,7 @@
 | [`docs/PLAN.md`](docs/PLAN.md) | Plano + fases |
 | [`docs/PRD.md`](docs/PRD.md) | PRD |
 | [`.specify/COMMITS.md`](.specify/COMMITS.md) | Conventional commits |
+| [`LICENSE`](LICENSE) | MIT |
 | [`.cursor/skills/README.md`](.cursor/skills/README.md) | Skills do Cursor |
 | [`docs/images/cli.png`](docs/images/cli.png) | Print da CLI |
 
@@ -82,6 +83,7 @@ Textos da CLI: inglês. Docs de ensino: português. Sem chave de API.
 ```
 devassist_cli/
   AGENTS.md
+  LICENSE
   .specify/
   .cursor/skills/
   docs/images/cli.png
@@ -97,4 +99,4 @@ Rust é o núcleo (`clap`, store, `mlua`). Ruby orquestra agentes e o RFC. Lua e
 
 ## Licença
 
-Uso educacional.
+MIT. Ver [`LICENSE`](LICENSE). Uso educacional; sem API paga.

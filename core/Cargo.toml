@@ -3,6 +3,7 @@ name = "devassist"
 version = "0.1.0"
 edition = "2021"
 description = "DevAssist CLI — polyglot lab (Rust + Ruby + Lua), 100% offline"
+license = "MIT"
 
 [[bin]]
 name = "devassist"

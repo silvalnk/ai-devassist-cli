@@ -90,3 +90,4 @@ Mnemo é o lab **mínimo** (sem Agent). DevAssist é o lab **completo** (polyglo
 | `docs/PLAN.md` | fases |
 | `docs/GLOSSARY.md` | definições |
 | `AGENTS.md` | regras para o agente Cursor |
+| `LICENSE` | MIT |
